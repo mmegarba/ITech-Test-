@@ -1,0 +1,26 @@
+
+.required-field::after {
+    content: "*";
+    color: red;
+}
+
+
+.container{
+
+  text-align:right;
+  width:600px
+}
+
+.buttons{
+
+margin-left: 5%;
+
+}
+
+
+.textBox{
+
+  position:relative;
+  left: 10%;
+
+}
