@@ -8,7 +8,7 @@
 
 body{
 
-  font-size: 22pt
+  font-size: 16pt
 }
 .form{
 
@@ -66,7 +66,7 @@ text-align:right;
 .textBox{
 
 width:50%;
-height:30px;
+height:20px;
 }
 
 .heading{
